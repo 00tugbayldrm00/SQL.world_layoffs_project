@@ -20,4 +20,4 @@ Project goals :
 
 *Identifying which companies had the highest total laif off numbers in different years
 
-How to use : Open the SQL files to explore the project. All steps are documented in he files
+How to use : Open the SQL files to explore the project. All steps are documented in the files
